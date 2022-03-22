@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 张三
+=======
+hello world
+>>>>>>> play
